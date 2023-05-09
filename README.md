@@ -168,4 +168,4 @@ You can also set user agent with the preference of xwalkUserAgent.
 
 #### 1.0.0 (Mar 25, 2015)
 * Initial release
-* Based on Crosswalk v11
+* Based on Crosswalk v11 
